@@ -1,4 +1,5 @@
 #pragma once
+// Class template
 template <class T> class Product {
 	private:
 		int manufacturerId;
